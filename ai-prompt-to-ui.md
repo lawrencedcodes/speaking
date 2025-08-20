@@ -1,4 +1,4 @@
-* The Sculptor and the Marble: The Journey from AI Prompt to Deployed UI
+# The Sculptor and the Marble: The Journey from AI Prompt to Deployed UI
 
 AI can now generate UI code from a simple text prompt, like a beautiful block of digital marble. But what separates this raw material from a production-ready masterpiece? The answer lies not in better prompts, 
 but in the skill of the sculptor—the developer. This session argues that in the AI era, the most valuable engineers will be those who architect the "sculpting studios": the systems that channel AI's raw 
